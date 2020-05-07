@@ -1,7 +1,7 @@
 
 function ejecuta() 
 { 
-    ALERT ("")
+    ALERT ("Paso 1 por jhon solano")
 
 
 }
